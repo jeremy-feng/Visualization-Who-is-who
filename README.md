@@ -1,18 +1,4 @@
----
-title: Visualization of Who is who
-author: Jeremy Feng
-date: '2022-09-18'
-slug: visualization-of-who-is-who
-categories:
-  - 技术
-  - 学习笔记
-tags:
-  - 技术
-  - 数据可视化
-toc: yes
-katex: no
-description: Who is who数据可视化，了解DS&BA项目的同学情况。
----
+> 本项目只作为学习过程的记录，为保护隐私，未上传原始数据。
 
 ## 心得体会与遇到的困难
 
